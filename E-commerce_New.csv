@@ -1,0 +1,51 @@
+Customer ID,Age,Gender,Location, Annual Income ,Date of purchase 1,product Category of pur1, Price of purchase 1 ,Date of purchase 2,product Category of pur2, Price of purchase2 ,Dates of purchase 3,product Category of pur3, Price of purchase3 ,Date of Purchase 4,product Category of pur4,Price of Purchase4,Time on Site,Product Rating
+1001,25,Female,City D," $45,000 ",2022-03-05,Clothing, $34.99 ,2022-02-12,Electronics, $129.99 ,2022-01-20,Home & Garden, $29.99 ,,,,32.5,4
+1001,28,Female,City D," $52,000 ",2022-05-15,Clothing, $34.56 ,2022-06-02,Electronics, $150.99 ,,,,,,,123.45,
+1001,28,Female,City D," $65,000 ",2022-08-15,Electronics, $345.50 ,2022-07-02,Home & Garden, $279.99 ,,,,,,,125.6,
+1001,45,Female,City D," $70,000 ",2022-08-15,Electronics, $200.50 ,2022-07-22,Clothing, $125.60 ,2022-06-01,Home & Garden, $300.80 ,2022-05-10,Electronics, $150.90 ,327.6,4
+1002,34,Male,City E," $45,000 ",2022-07-25,Clothing, $67.20 ,2022-06-08,Home & Garden, $250.10 ,2022-05-15,Electronics, $400.70 ,,,,214.9,3
+1003,56,Other,City F," $90,000 ",2022-09-01,Electronics, $300.20 ,2022-08-12,Clothing, $185.30 ,2022-07-28,Home & Garden, $200.90 ,,,,486.3,5
+1004,29,Female,City G," $60,000 ",2022-07-20,Electronics, $150.80 ,2022-06-05,Clothing, $120.60 ,2022-05-18,Home & Garden, $350.10 ,,,,378.5,4
+1005,42,Male,City H," $75,000 ",2022-08-28,Electronics, $250.60 ,2022-07-15,Clothing, $115.70 ,2022-06-03,Home & Garden, $300.40 ,,,,289.8,3
+1006,51,Other,City I," $85,000 ",2022-09-05,Electronics, $400.90 ,2022-08-18,Clothing, $195.30 ,2022-07-03,Home & Garden, $220.70 ,,,,456.2,5
+1007,36,Female,City J," $55,000 ",2022-07-27,Electronics, $120.50 ,2022-06-12,Clothing, $130.60 ,2022-05-28,Home & Garden, $320.80 ,,,,334.9,4
+1008,48,Male,City K," $80,000 ",2022-09-08,Electronics, $350.20 ,2022-08-23,Clothing, $165.30 ,2022-07-07,Home & Garden, $280.90 ,,,,298.6,3
+1009,25,Other,City L," $40,000 ",2022-08-25,Electronics, $170.80 ,2022-07-09,Clothing, $105.60 ,2022-06-24,Home & Garden, $290.10 ,,,,312.5,4
+1001,45,Female,City D," $75,000 ",2022-03-05,Clothing, $45.99 ,2022-04-12,Home & Garden, $120.50 ,,,,,,,120,5
+1002,32,Male,City A," $50,000 ",2022-02-15,Electronics, $250.00 ,2022-05-10,Clothing, $34.99 ,,,,,,,75,3
+1003,60,Other,City B," $80,000 ",2022-01-18,Home & Garden, $180.00 ,2022-06-02,Electronics, $400.00 ,,,,,,,200,5
+1004,28,Female,City C," $45,000 ",2022-04-25,Clothing, $29.99 ,2022-07-07,Home & Garden, $150.00 ,,,,,,,150,2
+1005,55,Male,City E," $90,000 ",2022-05-20,Electronics, $600.00 ,2022-08-03,Clothing, $59.99 ,,,,,,,300,5
+1006,38,Female,City F," $65,000 ",2022-06-15,Home & Garden, $220.00 ,2022-09-01,Electronics, $300.00 ,,,,,,,250,5
+1007,42,Male,City G," $70,000 ",2022-07-22,Clothing, $39.99 ,2022-10-06,Home & Garden, $190.00 ,,,,,,,180,3
+1008,50,Female,City H," $85,000 ",2022-08-08,Electronics, $550.00 ,2022-11-01,Clothing, $44.99 ,,,,,,,280,5
+1009,35,Male,City I," $55,000 ",2022-09-20,Home & Garden, $200.00 ,2022-12-05,Electronics, $350.00 ,,,,,,,220,4
+1010,48,Female,City J," $75,000 ",2022-10-15,Clothing, $34.99 ,2022-12-20,Home & Garden, $250.00 ,,,,,,,200,5
+1011,30,Male,City K," $40,000 ",2022-11-05,Electronics, $150.00 ,2023-01-10,Clothing, $29.99 ,,,,,,,160,3
+1012,65,Female,City L," $95,000 ",2022-12-25,Home & Garden, $170.00 ,2023-02-05,Electronics, $450.00 ,,,,,,,240,5
+1001,24,Female,City D," $45,000 ",2022-09-15,Clothing, $34.50 ,,,,,,,,,,120.5,5
+1001,35,Female,City D," $50,000 ",2022-05-15,Clothing, $120.00 ,2022-06-02,Home & Garden, $250.00 ,,,,,,,120,5
+1002,45,Male,City E," $80,000 ",2022-06-12,Electronics, $350.00 ,,,,,,,,,,300,4.5
+1003,28,Female,City F," $60,000 ",2022-05-28,Clothing, $75.00 ,2022-06-10,Home & Garden, $120.00 ,,,,,,,250,5
+1004,52,Male,City G," $70,000 ",2022-05-08,Electronics, $200.00 ,2022-06-05,Home & Garden, $150.00 ,,,,,,,350,4
+1005,31,Female,City H," $45,000 ",2022-05-18,Clothing, $50.00 ,2022-06-07,Home & Garden, $100.00 ,,,,,,,200,3.5
+1006,48,Male,City I," $90,000 ",2022-05-23,Electronics, $400.00 ,2022-06-03,Home & Garden, $200.00 ,,,,,,,400,5
+1007,60,Female,City J," $65,000 ",2022-05-25,Clothing, $100.00 ,2022-06-08,Home & Garden, $180.00 ,,,,,,,300,4
+1008,55,Male,City K," $85,000 ",2022-05-20,Electronics, $300.00 ,2022-06-04,Home & Garden, $250.00 ,,,,,,,450,5
+1009,29,Female,City L," $40,000 ",2022-05-16,Clothing, $60.00 ,2022-06-06,Home & Garden, $150.00 ,,,,,,,250,4.5
+1010,58,Male,City M," $75,000 ",2022-05-12,Electronics, $250.00 ,2022-06-01,Home & Garden, $175.00 ,,,,,,,350,5
+1011,36,Female,City N," $55,000 ",2022-05-27,Clothing, $80.00 ,2022-06-09,Home & Garden, $200.00 ,,,,,,,200,4.5
+1012,42,Male,City O," $95,000 ",2022-05-22,Electronics, $350.00 ,2022-06-02,Home & Garden, $100.00 ,,,,,,,300,5
+1013,50,Female,City P," $68,000 ",2022-05-19,Clothing, $120.00 ,2022-06-07,Home & Garden, $150.00 ,,,,,,,250,4
+1001,32,Female,City D," $65,000 ",2022-08-15,Clothing, $45.23 ,2022-07-20,Electronics, $250.34 ,,,,,,,72.3,5
+1001,35,Female,City D," $60,000 ",2022-03-15,Electronics, $250.50 ,2022-02-01,Clothing, $125.80 ,,,,,,,123.6,
+1002,42,Male,City E," $75,000 ",2022-02-20,Clothing, $150.20 ,2022-01-12,Home & Garden, $450.00 ,,,,,,,246.9,
+1001,32,Female,City D," $55,000 ",2022-03-15,Electronics, $249.99 ,,,,,,,,,,75.2,
+1001,28,Female,City D," $65,000 ",2022-06-12,Clothing, $45.99 ,2022-05-08,Electronics, $199.99 ,,,,,,,120.5,
+1002,42,Male,City E," $80,000 ",2022-07-03,Electronics, $249.99 ,2022-06-17,Home & Garden, $129.99 ,,,,,,,250,
+1003,35,Other,City F," $50,000 ",2022-06-22,Clothing, $34.99 ,2022-05-15,Electronics, $149.99 ,,,,,,,75,
+1004,52,Female,City G," $100,000 ",2022-07-08,Clothing, $79.99 ,2022-06-24,Home & Garden, $399.99 ,,,,,,,300,
+1005,24,Male,City H," $45,000 ",2022-06-01,Electronics, $129.99 ,2022-05-18,Home & Garden, $59.99 ,,,,,,,100,
+1001,34,Female,City D," $55,000 ",2022-07-02,Clothing, $25.60 ,2022-06-15,Electronics, $120.00 ,,Home & Garden, $35.00 ,,,,120,5
+1002,45,Male,City E," $87,000 ",2022-07-08,Electronics, $420.00 ,2022-06-23,Clothing, $75.00 ,,Home & Garden, $200.00 ,,,,350,5
+1003,29,Other,City F," $42,000 ",2022-07-01,Electronics, $180.00 ,2022-06-18,Clothing, $50.00 ,,Home & Garden, $30.00 ,,,,200,4
